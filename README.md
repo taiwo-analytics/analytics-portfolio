@@ -127,7 +127,9 @@ An interactive dashboard designed to monitor and analyze cancer patient data, in
 
 ## 📈 Sales Variance Analysis Dashboard (2024)
 
-![Sales Variance Dashboard](variance_analysis.png)(variancee.png)(varianceee.png)
+![Sales Variance Dashboard](variance_analysis.png)
+![Sales Variance Dashboard](variancee.png)
+![Sales Variance Dashboard](varianceee.png)
 
 **Description:**  
 A **Power BI dashboard** tracking actual sales vs. targets, enabling real-time business performance monitoring.
