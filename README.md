@@ -28,7 +28,7 @@ I create clear, interactive dashboards and reports to communicate insights effec
 
 ## 🏢 HR Attrition Dashboard
 
-![HR Attrition Dashboard](Attrition dashboard.png)
+![HR Attrition Dashboard](Attrition_dashboard.png)
 
 **Overview:**  
 An interactive dashboard providing insights into employee attrition trends across **age groups, performance ratings, salary ranges, satisfaction levels, and job roles** — helping HR teams identify high-turnover areas and take proactive measures.
@@ -46,7 +46,7 @@ An interactive dashboard providing insights into employee attrition trends acros
 
 ## 🩺 Cancer Review Dashboard (2025)
 
-![Cancer Review Dashboard](cancer dashboard.png)
+![Cancer Review Dashboard](cancer_dashboard.png)
 
 **Description:**  
 An interactive dashboard designed to monitor and analyze cancer patient data, including tumor stages, patient demographics, and treatment outcomes.
@@ -62,7 +62,7 @@ An interactive dashboard designed to monitor and analyze cancer patient data, in
 
 ## 📈 Sales Variance Analysis Dashboard (2024)
 
-![Sales Variance Dashboard](variance analysis.png)
+![Sales Variance Dashboard](variance_analysis.png)
 
 **Description:**  
 A **Power BI dashboard** tracking actual sales vs. targets, enabling real-time business performance monitoring.
