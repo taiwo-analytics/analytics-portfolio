@@ -80,15 +80,6 @@ The Tableau dashboard includes:
 
 ---
 
-## 👨🏽‍💻 Author
-**Taiwo Adegbola**  
-Data Analyst | Public Health Enthusiast  
-Focused on leveraging analytics to inform evidence-based health policy in Africa.  
-
-📫 *https://www.linkedin.com/in/taiwo-adegbola-b838b5a7*  
-
----
-
 
 
 ## 🏢 HR Attrition Dashboard
@@ -108,6 +99,72 @@ An interactive dashboard providing insights into employee attrition trends acros
 - Employees aged **31–35** have the highest attrition rate
 
 ---
+
+# Expansion Analysis Project (Automobile Sales in Nigeria)
+![Expansion Analysis Dashboard](Expansion_DB.png)
+
+This project explores automobile sales performance across Nigerian states, examining growth, brand distribution, and demographic patterns to support business expansion decisions.  
+The analysis identifies high-performing markets and highlights opportunities for scaling operations based on population, GDP, and sales performance.
+
+---
+
+## 🧭 Key Facts (Jan–Dec 2020)
+| Metric | Value |
+|---------|--------|
+| **Total Sales** | 1,491 |
+| **Growth Rate** | 4.27% |
+| **Total Branches** | 6 |
+| **Top State** | Lagos |
+| **Top Car Brand** | Ford (3.37%) |
+| **Top Car Model** | Corolla (6.91%) |
+| **Top Gender** | Female (766, 51.37%) |
+| **Top Age Range** | 26–40 years |
+
+---
+
+## 🧠 Insights
+
+### 🏙️ Population & GDP
+- States with **high population** and **higher GDP per capita** tend to record stronger sales performance.
+- Economic strength and urban density directly influence market potential.
+
+### 🚗 Brands & Models
+- Out of **9 brands**, **5 performed above average**:  
+  **Ford (368)**, **Toyota (362)**, **Honda (203)**, **Nissan (201)**, **Hyundai (198)**.  
+- Top 5 brands average **3 models each** (range: 2–4).  
+- Brand and model performance are **state-specific** — certain brands dominate specific markets.
+
+### 🏢 Branch Performance
+- Of **17 total branches**, **~99% of all sales** came from **5 states**: *Lagos, Ogun, Oyo, Ondo,* and *Osun.*  
+- **Ekiti branch** operated for only 3 months (Jan–Mar) with low sales volume.  
+- States with similar characteristics to **Lagos** (e.g., **Port Harcourt, Abuja, Kano**) show **potential for expansion**.
+
+---
+
+## ⚙️ Tools Used
+- **Excel / CSV** – Data cleaning and pre-processing
+- **Power BI** – Visualization of sales by brand, model, state, month, and demographics  
+
+
+---
+
+## 📈 Visualizations
+The interactive dashboard showcases:
+- State-by-state sales performance  
+- Brand and model breakdown  
+- Gender and age-based segmentation  
+- Potential expansion zones based on sales density  
+
+---
+
+## 💡 Business Implications
+- Prioritize **expansion** into urban, economically vibrant regions.  
+- **Target females aged 26–40** as a core customer segment.  
+- Leverage **Ford, Toyota, and Honda** as flagship brands for growth.  
+- Monitor emerging markets like **PH, Abuja, and Kano** for future branches.
+
+---
+
 
 ## 🩺 Cancer Review Dashboard (2025)
 
