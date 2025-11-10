@@ -26,6 +26,71 @@ I create clear, interactive dashboards and reports to communicate insights effec
 
 ---
 
+# Suicide Mortality Analysis in Nigeria (Global Burden of Disease Data)
+
+![Suicide Analysis Dashboard](Suicide_DB.png)
+
+This project analyzes suicide mortality trends in **Nigeria**, using data from the **Global Burden of Disease (GBD)** study.  
+The analysis explores suicide patterns across **age groups, gender, and time**, and evaluates Nigeria’s progress toward achieving **SDG 3.4.2** — reducing suicide mortality by one-third by 2030.
+
+---
+
+## 🧭 Objectives
+- Examine suicide trends by **gender** and **age group**.
+- Identify the **most affected population segment**.
+- Assess **Nigeria’s progress** toward the SDG 3.4.2 target using the **Average Annual Reduction Rate (AARR)** approach.
+- Provide actionable insights for public health policy and prevention strategies.
+
+---
+
+## 🧰 Tools & Methods
+- **SQL:** Data extraction, cleaning, and summarization.  
+- **Tableau:** Data visualization and dashboard creation.  
+- **AARR Model:** Used to estimate the required annual reduction rate to meet 2030 SDG goals.
+
+---
+
+## 📊 Key Findings
+- **Male suicide rate** is consistently **higher** than that of females.  
+- The **15–29 age group** remains the **most affected**, highlighting the need for youth-focused mental health interventions.  
+- Nigeria requires an **Average Annual Reduction Rate (AARR) of 2.37%** to meet the **SDG 3.4.2 target by 2030**.  
+- Despite moderate declines, **current trends are insufficient** to reach the target without strengthened prevention programs.
+
+---
+
+## 🌍 Data Source
+**Global Burden of Disease (GBD)** dataset  
+Institute for Health Metrics and Evaluation (IHME) — [https://ghdx.healthdata.org/gbd-results-tool](https://ghdx.healthdata.org/gbd-results-tool)
+
+---
+
+## 📈 Visualizations
+The Tableau dashboard includes:
+- Suicide trends (2000–2021) and Forecast Trendline (2022-2030)
+- Gender comparison charts
+- Age group distribution
+- SDG projection indicator (AARR tracker)
+
+---
+
+## 💡 Policy Implications
+- Strengthen **mental health awareness** and **youth suicide prevention** initiatives.  
+- Integrate **data-driven monitoring** of SDG 3.4.2 progress.  
+- Enhance national data systems for **real-time suicide surveillance**.
+
+---
+
+## 👨🏽‍💻 Author
+**Taiwo Adegbola**  
+Data Analyst | Public Health Enthusiast  
+Focused on leveraging analytics to inform evidence-based health policy in Africa.  
+
+📫 *[Add your LinkedIn or GitHub link here]*  
+
+---
+
+
+
 ## 🏢 HR Attrition Dashboard
 
 ![HR Attrition Dashboard](Attrition_dashboard.png)
@@ -94,7 +159,7 @@ An interactive dashboard visualizing customer demographics and purchase behavior
 - **Car Ownership Impact:** Purchases are almost evenly split — 50.2% (own car) vs. 49.8% (no car)
 -And other actionable insights for targeted marketing 
 
-**Tools:** SQL & Tableau  
+**Tools:** SQL & Tableau 
 
 ---
 
