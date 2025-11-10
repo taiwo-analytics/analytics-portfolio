@@ -222,6 +222,50 @@ An interactive dashboard visualizing customer demographics and purchase behavior
 
 ---
 
+# Hospital Operation Analysis Dashboard
+
+This repository contains the Hospital Operation Dashboard along with insights derived from the patient and doctor data.
+
+![Hospital Dashboard](Hospital_Op.png)
+
+## Overview
+The dashboard tracks hospital operations, including:
+- Total Patients by Age Range
+- Total Patients by Gender
+- Total Patients by Diagnosis
+- Total Patients by Satisfaction Range
+- Total Patients by Doctor
+- Trends by Year, Quarter, and Month
+
+## Key Insights
+1. **Doctor Performance**
+   - Dr. Eze treated the most patients (402), followed by Dr. Musa (396) and Dr. Adeyemi (395).
+   - Avg. Satisfaction Scores:
+     - Dr. Eze: 68.1
+     - Dr. Musa: 68
+     - Dr. Bello: 66.1
+     - Drs. Adeyemi & Okonkwo: 64.5
+
+2. **Patient Satisfaction Breakdown**
+   - Dr. Eze: 155 satisfied, 117 very satisfied, 91 neutral, 39 dissatisfied
+   - Dr. Musa: 175 satisfied, 102 very satisfied, 83 neutral, 36 dissatisfied
+   - Very dissatisfied patients:
+     - Dr. Adeyemi: 2 (malaria, 81–90)
+     - Dr. Bello: 1 (diabetes, 61–70)
+
+3. **Patient Volume Trends**
+   - Dr. Musa attended to most patients in Q1 and Q2; Q3 and Q4 were lower.
+   - Dr. Eze had lowest patient counts in June (Q2), September (Q3), and most of Q4.
+
+4. **Common Diagnoses by Doctor**
+   - Dr. Musa:
+     - Malaria: 145
+     - Hypertension: 76
+     - Typhoid: 76
+     - Pneumonia: 34
+   - Dr. Musa also handled most typhoid and diabetes cases, while malaria was his top case (141 patients).
+
+
 ## 📬 CONNECT WITH ME
 - **GitHub:** [taiwo-analytics](https://github.com/taiwo-analytics)  
 - **LinkedIn:** [Taiwo Adegbola](https://www.linkedin.com/in/taiwo-adegbola-b838b5a7)  
