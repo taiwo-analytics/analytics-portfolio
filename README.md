@@ -85,7 +85,7 @@ The Tableau dashboard includes:
 Data Analyst | Public Health Enthusiast  
 Focused on leveraging analytics to inform evidence-based health policy in Africa.  
 
-📫 *[Add your LinkedIn or GitHub link here]*  
+📫 *https://www.linkedin.com/in/taiwo-adegbola-b838b5a7*  
 
 ---
 
@@ -127,7 +127,7 @@ An interactive dashboard designed to monitor and analyze cancer patient data, in
 
 ## 📈 Sales Variance Analysis Dashboard (2024)
 
-![Sales Variance Dashboard](variance_analysis.png)
+![Sales Variance Dashboard](variance_analysis.png)(variance2.png)(variance3.png)
 
 **Description:**  
 A **Power BI dashboard** tracking actual sales vs. targets, enabling real-time business performance monitoring.
